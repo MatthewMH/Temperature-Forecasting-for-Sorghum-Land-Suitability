@@ -1,8 +1,7 @@
 # Temperature-Forecasting-for-Sorghum-Land-Suitability
+The goal of this project is to forecast the temperature in Jonggol District. The purpose of the forecasting is to determine sorghum land suitability.
 
-ChairMan:
+This project is done by:
 * Yosar Aweda Porseda
-
-Staff:
 * Matthew Martianus Henry
 * Rizal Mujahiddan
